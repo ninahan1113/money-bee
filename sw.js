@@ -1,4 +1,4 @@
-const CACHE_NAME = 'money-bee-v1'
+const CACHE_NAME = 'money-bee-v2'
 
 // Install: cache app shell
 self.addEventListener('install', (e) => {
